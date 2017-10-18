@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Linköping Continuous Practices Meetup
 
-You can use the [editor on GitHub](https://github.com/kristoferhallen/cicdlinkoping/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Meet and exchange ideas with others who work with continuous integration, delivery and/or deployment!
+The event is free and includes a free lunch for registered participants.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The day includes presentations and group discussions
+Presenters that have signed up so far include Ericsson, Autoliv and Arccore. Tell us if you want to present!
 
-### Markdown
+Sign up here: https://goo.gl/forms/Flv216HTH73Va7iB3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The event takes place the day before the Eiffel Summit 2017. If you're traveling to one event, take the opportunity to attend both! Sign up for the Eiffel Summit 2017 here:
+https://goo.gl/forms/MDw3q2oq6SUTCOnD3
 
-```markdown
-Syntax highlighted code block
+When: November 7, 9:00-14:00
+Where: Creactive, Teknikringen 7, Linköping
+Contact: 
+Kristofer Hallén
+kristofer.hallen@arccore.com
+https://www.linkedin.com/in/kristoferhallen/
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kristoferhallen/cicdlinkoping/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
