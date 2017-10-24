@@ -11,10 +11,11 @@ Speaker | Company | Subject
 ------------ | ------------- | -------------
 Daniel Ståhl | Ericsson |
 Zebastian Zaar | Cambio | Neglecting the infrastructure for software productions is common. It’s foundations have been created a long time ago and things have worked ok even though with slowly declining performance. Inevitably either due to the parts getting old or due to that the product grows, or perhaps due to both, we get a hard to maintain and fragmented system. The solution we did was to use containerization and to reinvent the configuration of infrastructure. 
+Tapani Tirkkonen | Tieto | **Ensuring successful operations with continuous deployment** When utilizing DevOps way of working the application monitoring is obviously designed and realized already at the development phase. Monitoring results are obtained already at the testing phases giving a baseline for application normal behavior. However, with complex systems this leads to tens if not hundreds of measures, and if something goes wrong, it takes time to figure out what is actually happening. Utilizing autonomous machine learning algorithms has improved situation by alarming already before things go wrong and by being able to pinpoint the problematic application/service.
 Martin Thernell | Autoliv |
 Per Mårtensson | SMHI |
-Tapani Tirkkonen | Tieto | **Ensuring successful operations with continuous deployment** When utilizing DevOps way of working the application monitoring is obviously designed and realized already at the development phase. Monitoring results are obtained already at the testing phases giving a baseline for application normal behavior. However, with complex systems this leads to tens if not hundreds of measures, and if something goes wrong, it takes time to figure out what is actually happening. Utilizing autonomous machine learning algorithms has improved situation by alarming already before things go wrong and by being able to pinpoint the problematic application/service.
-
+ | Nira dynamics | 
+ | SICK IVP | 
 
 
 [Sign up here](https://goo.gl/forms/Flv216HTH73Va7iB3)
