@@ -15,7 +15,6 @@ Tapani Tirkkonen | Tieto | **Ensuring successful operations with continuous depl
 Martin Thernell | Autoliv |
 Per Mårtensson | SMHI | **CI with a micro service architecture**<br> Intro about SMHI and what the Shipping part actually is<br>Starting the journey from monolit to micro services - why and how<br>Basic architecture and techniques<br>How far have we come<br>What is still to do? 
  | Nira dynamics | 
- | SICK IVP | 
 
 
 [Sign up here](https://goo.gl/forms/Flv216HTH73Va7iB3)
