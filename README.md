@@ -3,6 +3,8 @@
 Meet and exchange ideas with others who work with continuous integration, delivery and/or deployment!
 The event is free and includes a free lunch for registered participants.
 
+
+
 Agenda
 
 Time | What
@@ -20,7 +22,7 @@ Time | What
 12:50 | Group discussions
 13:40 | Conclusions
 
-
+Speakers
 
 Speaker | Company | Subject 
 ------------ | ------------- | -------------
@@ -32,12 +34,14 @@ Per Mårtensson | SMHI | **CI with a micro service architecture**<br> Intro abou
  | Nira dynamics | 
 
 
-Proposed discussion topics | 
------------- |
-Regulatory constraints. Customer reluctance/inability to receive continuous deployments.
-Continuous Integration and Continuous Delivery
-CI-E Knowledge, Eiffel basics, Docker
-deploy discussions (how to get the teams on board, what is reasonable to expect from the teams etc.) 
+Proposed discussion topics
+
+| Topic | 
+| ------------ |
+| Regulatory constraints. Customer reluctance/inability to receive continuous deployments.
+| Continuous Integration and Continuous Delivery
+| CI-E Knowledge, Eiffel basics, Docker
+| deploy discussions (how to get the teams on board, what is reasonable to expect from the teams etc.) 
 
 
 
