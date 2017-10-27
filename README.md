@@ -3,9 +3,24 @@
 Meet and exchange ideas with others who work with continuous integration, delivery and/or deployment!
 The event is free and includes a free lunch for registered participants.
 
-The day includes presentations and group discussions.
+Agenda
 
-Speakers:
+Time | What
+------------- | ------------- 
+9:00 | Coffe and something to eat
+9:15 | Introduction. Kristofer Hallén
+9:30 | Presentation - Ericsson
+9:40 | Presentation - Cambio
+10:10 | **Break**
+10:30 | Presentation - SMHI
+10:50 | Presentation - Autoliv
+11:10 | Presentation - Tieto
+11:30 | **Lunch**
+12:30 | Presenation - NIRA dynamics
+12:50 | Group discussions
+13:40 | Conclusions
+
+
 
 Speaker | Company | Subject 
 ------------ | ------------- | -------------
@@ -15,6 +30,17 @@ Tapani Tirkkonen | Tieto | **Ensuring successful operations with continuous depl
 Martin Thernell | Autoliv |
 Per Mårtensson | SMHI | **CI with a micro service architecture**<br> Intro about SMHI and what the Shipping part actually is<br>Starting the journey from monolit to micro services - why and how<br>Basic architecture and techniques<br>How far have we come<br>What is still to do? 
  | Nira dynamics | 
+
+
+Proposed discussion topics | 
+------------ |
+Regulatory constraints. Customer reluctance/inability to receive continuous deployments.
+Continuous Integration and Continuous Delivery
+CI-E Knowledge, Eiffel basics, Docker
+deploy discussions (how to get the teams on board, what is reasonable to expect from the teams etc.) 
+
+
+
 
 
 [Sign up here](https://goo.gl/forms/Flv216HTH73Va7iB3)
