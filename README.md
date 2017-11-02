@@ -45,7 +45,7 @@ Per Mårtensson | SMHI | **CI with a micro service architecture**<br> Intro abou
 
 
 
-[Sign up here](https://goo.gl/forms/Flv216HTH73Va7iB3)
+Sign up is closed but if you want to attend send a mail and ask.
 
 The event takes place the day before the Eiffel Summit 2017. If you're traveling to one event, take the opportunity to attend both! Sign up for the [Eiffel Summit 2017 here](https://goo.gl/forms/MDw3q2oq6SUTCOnD3)
 
