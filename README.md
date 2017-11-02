@@ -31,7 +31,7 @@ Zebastian Zaar | Cambio | Neglecting the infrastructure for software productions
 Tapani Tirkkonen | Tieto | **Ensuring successful operations with continuous deployment** When utilizing DevOps way of working the application monitoring is obviously designed and realized already at the development phase. Monitoring results are obtained already at the testing phases giving a baseline for application normal behavior. However, with complex systems this leads to tens if not hundreds of measures, and if something goes wrong, it takes time to figure out what is actually happening. Utilizing autonomous machine learning algorithms has improved situation by alarming already before things go wrong and by being able to pinpoint the problematic application/service.
 Martin Thernell | Autoliv |
 Per Mårtensson | SMHI | **CI with a micro service architecture**<br> Intro about SMHI and what the Shipping part actually is<br>Starting the journey from monolit to micro services - why and how<br>Basic architecture and techniques<br>How far have we come<br>What is still to do? 
- | Nira dynamics | 
+Anna Freiholtz | Nira dynamics | **Ten years of CI/CD @ NIRA** 2006 the first embryo to a continuous delivery environment was created at NIRA. We will describe the what has happened since then and what lies ahead of us. What have we learned and what challenges do we see.”
 
 
 ## Proposed discussion topics
