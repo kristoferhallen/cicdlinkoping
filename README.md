@@ -12,7 +12,7 @@ Time | What
 9:00 | Coffe and something to eat
 9:15 | Introduction. Kristofer Hallén
 9:30 | Presentation - Ericsson
-9:40 | Presentation - Cambio
+9:50 | Presentation - Cambio
 10:10 | **Break**
 10:30 | Presentation - SMHI
 10:50 | Presentation - Autoliv
