@@ -50,7 +50,7 @@ Sign up is closed but if you want to attend send a mail and ask.
 The event takes place the day before the Eiffel Summit 2017. If you're traveling to one event, take the opportunity to attend both! Sign up for the [Eiffel Summit 2017 here](https://goo.gl/forms/MDw3q2oq6SUTCOnD3)
 
 * When: November 7, 9:00-14:00
-* Where: Creactive, Teknikringen 7, Linköping
+* Where: Creactive, Teknikringen 7, Linköping https://goo.gl/maps/BfKXyYg9E262
 * Contact: 
 * [Kristofer Hallén](https://www.linkedin.com/in/kristoferhallen/)
 * kristofer.hallen@arccore.com
