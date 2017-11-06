@@ -9,7 +9,7 @@ The event is free and includes a free lunch for registered participants.
 
 Time | What
 ------------- | ------------- 
-9:00 | Coffe and something to eat
+9:00 | Coffee and something to eat
 9:15 | Introduction. Kristofer Hallén
 9:30 | Presentation - Ericsson
 9:50 | Presentation - Cambio
@@ -18,7 +18,7 @@ Time | What
 10:50 | Presentation - Autoliv
 11:10 | Presentation - Tieto
 11:30 | **Lunch**
-12:30 | Presenation - NIRA dynamics
+12:30 | Presentation - NIRA dynamics
 12:50 | Group discussions
 13:40 | Conclusions
 
